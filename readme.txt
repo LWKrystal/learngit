@@ -1,2 +1,3 @@
-Git is not a distributed version control system.
-Git is not free sftware.
+Git is  a distributed version control system.
+Git is  free sftware.
+Git has a mutable index called stage.
