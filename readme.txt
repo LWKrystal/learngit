@@ -6,3 +6,4 @@ This is a new test.
 Creating a new branch is quick and simple.
 add merge.
 add merge two.
+New bug.
